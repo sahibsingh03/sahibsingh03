@@ -1,19 +1,19 @@
-<h1 align="left">Hi 👋 I'm Sahib Singh</h1>
-<h2 align="left">An Upcoming Data Scientist</h2>
+<h1 align="left">Hi 👋, I'm Sahib Singh</h1>
+<h3 align="left">An Upcoming Data Scientist</h3>
 
-- 🔭 I’m currently pursuing **BE in Computer Science**
+- 🔭 I’m currently working on **BE in Computer Science** from Chitkara University.
 
-- 🌱 I'm passionate about **Machine Learning** & **Artificial Intelligence**.
-
-- 💬 Reading Novels and listening to Music are among my favorite activities.
+- 🌱 I'm passionate about **Machine Learning** & **Artificial Intelligence.**
 
 - 📫 How to reach me: **sahibsingh1131@gmail.com**
 
 - ⚡ Fun fact: I make jokes when I'm uncomfortable.
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahibsingh03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahibsingh03/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahib-singh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahib-singh03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahib0496_cse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahib0496_cse19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahibsingh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahibsingh03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
