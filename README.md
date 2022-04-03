@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sahib Singh</h1>
-<h3 align="left">An Upcoming Data Scientist</h3>
-<h4 align="left">About Me</h4>
+
+<h3 align="left">About Me</h3>
 - 🔭 I’m currently working on **BE in Computer Science** from Chitkara University.
 
 - 🌱 I'm passionate about **Machine Learning** & **Artificial Intelligence.**
