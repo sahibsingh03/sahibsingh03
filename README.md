@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I make jokes when I'm uncomfortable.
 
-<br style=“line-height:3;”>
+<br style=“line-height:2;”>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
@@ -29,7 +29,7 @@
   <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank" rel="noreferrer"> <img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png?w=640" alt="github" width="50" height="50"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="40" height="40"/> </a>   
 </p>
-<br style=“line-height:3;”>
+<br style=“line-height:2;”>
 <h3 align="left">⚙ Github Analytics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahibsingh03&show_icons=true&locale=en&layout=compact" alt="sahibsingh03" /></p>
 
@@ -41,5 +41,5 @@
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahibsingh03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahib-singh03" height="30" width="40" /></a>
-<a href="mailto:sahibsingh1131@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/gmail-icon-33.png" alt="sahibsingh03" height="30" width="40" bgcolor="red" /></a>
+<a href="mailto:sahibsingh1131@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/gmail-icon-33.png" alt="sahibsingh03" height="30" width="40"  /></a>
 </p>
