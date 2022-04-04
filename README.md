@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sahib Singh</h1>
 
 <h3 align="left">About Me</h3>
-- 🔭 I’m currently working on **BE in Computer Science** from Chitkara University.
+<img src="https://github.com/sahibsingh03/sahibsingh03/blob/main/Freelance%20Life%204.gif" width =256 align="right" />
+- 🔭 I’m currently working on **BE in Computer Science** from Chitkara University. 
 
 - 🌱 I'm passionate about **Machine Learning** & **Artificial Intelligence.**
 
