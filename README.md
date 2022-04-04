@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahibsingh03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahib-singh03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahib0496_cse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahib0496_cse19" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/sahibsingh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahibsingh03" height="30" width="30" /></a>
 <a href="mailto:sahibsingh1131@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/gmail-icon-33.png" alt="sahibsingh03" height="30" width="40" /></a>
 </p>
 
