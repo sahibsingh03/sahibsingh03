@@ -28,7 +28,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="mssql" width="60" height="50"/> </a> 
  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="50" height="50"/> </a>
   <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank" rel="noreferrer"> <img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png?w=640" alt="github" width="50" height="50"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="35" height="35"/> </a>  
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://dinhanhthi.com/img/header/jupyter.png" alt="VScode" width="45" height="45"/> </a> 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="35" height="35"/> </a> 
+  
 </p>
 <br style=“line-height:2;”>
 <h3 align="left">⚙ Github Analytics:</h3>
