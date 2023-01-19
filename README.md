@@ -33,13 +33,6 @@
   
 </p>
 <br style=“line-height:2;”>
-<h3 align="left">⚙ Github Analytics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahibsingh03&show_icons=true&locale=en&layout=compact" alt="sahibsingh03" />
-
-
-
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahibsingh03&show_icons=true&locale=en" alt="sahibsingh03" /></p>
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
